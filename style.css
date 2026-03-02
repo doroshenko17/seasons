@@ -45,12 +45,27 @@ h1{
 }
 
 h2{
-    color: blue;
     border-top: 2px solid #c2b77a;
     border-bottom: 2px solid #c2b77a;
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.summer_h2{
+    color: rgb(1, 82, 22);
+}
+
+.winter_h2{
+    color: blue;
+}
+
+.sprink_h2{
+    color: rgb(255, 0, 174);
+}
+
+.autumn_h2{
+    color: rgb(80, 58, 18);
 }
 
 footer {
