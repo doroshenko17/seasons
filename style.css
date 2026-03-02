@@ -12,13 +12,19 @@ body {
     min-height: 100vh;
 }
 
+
+.summer {
+    background-color: #7bad7b;
+}
+
+
 .winter{
     background-color: lightblue;
 
 }
 
 .sprink {
-    background-color: rgb(173, 230, 189);
+    background-color: rgb(230, 173, 219);
 }
 
 .autumn {
